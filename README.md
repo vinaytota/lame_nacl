@@ -8,3 +8,5 @@ Post message to the NaCL object with an array buffer containing a single channel
 Compiles and links statically against newlib by default to use glibc and the release configuration (to strip debug symbols)
 
 make TOOLCHAIN=glibc CONFIG=Release
+
+TODO: Add working example based on http://webaudiodemos.appspot.com/AudioRecorder/index.html
